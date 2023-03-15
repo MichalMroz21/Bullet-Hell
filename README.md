@@ -8,4 +8,5 @@ Game consists of 3 levels and 3 types of enemies:
 Game tracks player's information (HP, Time spent on level, Accuracy, Rank, Number of enemies) and displays it.
 
 <h3> Level 1: </h3>
-![Przechwytywanie](https://user-images.githubusercontent.com/125133223/225207608-e60d3101-c89f-459d-bff8-2769b3bfc1aa.PNG)
+
+![Przechwytywanie](https://user-images.githubusercontent.com/125133223/225207651-91e552d1-056e-425a-9f0d-301d35678e87.PNG)
