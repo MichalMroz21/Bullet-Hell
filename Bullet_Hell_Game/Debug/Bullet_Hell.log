@@ -1,0 +1,50 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (szablon2vs19.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  Boss1.cpp
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Boss1.cpp(34,41): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Boss1.cpp(35,41): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Boss1.cpp(53,17): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Boss1.cpp(57,18): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+  Boss2.cpp
+  Bullet.cpp
+  Enemy.cpp
+  Game.cpp
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.h(24,93): warning C4042: „currentTimeEvent”: ma złą klasę magazynu
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.h(26,158): warning C4042: „currentTimeEvent”: ma złą klasę magazynu
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.h(26,210): warning C4042: „boss1hit”: ma złą klasę magazynu
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.h(26,246): warning C4042: „boss2hit”: ma złą klasę magazynu
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.cpp(102,98): warning C4042: „currentTimeEvent”: ma złą klasę magazynu
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.cpp(142,58): warning C4042: „currentTimeEvent3”: ma złą klasę magazynu
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.cpp(240,163): warning C4042: „currentTimeEvent”: ma złą klasę magazynu
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.cpp(240,215): warning C4042: „boss1hit”: ma złą klasę magazynu
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.cpp(240,251): warning C4042: „boss2hit”: ma złą klasę magazynu
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.cpp(255,81): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.cpp(255,57): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.cpp(265,81): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.cpp(265,57): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.cpp(274,96): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.cpp(274,56): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.cpp(297,73): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.cpp(297,53): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.cpp(300,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.cpp(301,13): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.cpp(302,40): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.cpp(302,37): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.cpp(573,8): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  Health.cpp
+  main.cpp
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.h(24,93): warning C4042: „currentTimeEvent”: ma złą klasę magazynu
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.h(26,158): warning C4042: „currentTimeEvent”: ma złą klasę magazynu
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.h(26,210): warning C4042: „boss1hit”: ma złą klasę magazynu
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Game.h(26,246): warning C4042: „boss2hit”: ma złą klasę magazynu
+G:\Bullet_Hell_Final_Working\Bullet_Hell\main.cpp(74,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+G:\Bullet_Hell_Final_Working\Bullet_Hell\main.cpp(87,57): warning C4838: konwersja z „double” do „int” wymaga konwersji zawężającej
+G:\Bullet_Hell_Final_Working\Bullet_Hell\main.cpp(87,57): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+G:\Bullet_Hell_Final_Working\Bullet_Hell\main.cpp(206,49): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Player.cpp
+  Timing.cpp
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Timing.cpp(8,29): warning C4244: "=": konwersja z "Uint32" do "float", możliwa utrata danych
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Timing.cpp(16,29): warning C4244: "=": konwersja z "Uint32" do "float", możliwa utrata danych
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Timing.cpp(42,30): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  Generowanie kodu...
+G:\Bullet_Hell_Final_Working\Bullet_Hell\Timing.cpp(36): warning C4172: zwracanie adresu lokalnej zmiennej lub tymczasowej: number
+  Bullet_Hell.vcxproj -> G:\Bullet_Hell_Final_Working\Bullet_Hell\Debug\Bullet_Hell.exe
