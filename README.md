@@ -15,7 +15,9 @@ Whenever player gets hit he gains invicibility for a short amount of time.
 ![Przechwytywanie](https://user-images.githubusercontent.com/125133223/225207651-91e552d1-056e-425a-9f0d-301d35678e87.PNG)
 
 <h3> Level 2: </h3>
-![Przechwytywanie](https://user-images.githubusercontent.com/125133223/225207894-9ea6cbad-7e63-4665-a4e5-3e2cde88022c.PNG)
+
+![Przechwytywanie](https://user-images.githubusercontent.com/125133223/225208185-314815af-8497-48df-8aab-82da6e35c08d.PNG)
 
 <h3> Level 3: </h3>
-![Przechwytywanie](https://user-images.githubusercontent.com/125133223/225208084-6194ad68-a304-4c82-b5a9-735b871b8406.PNG)
+
+
