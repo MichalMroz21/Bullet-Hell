@@ -20,4 +20,5 @@ Whenever player gets hit he gains invicibility for a short amount of time.
 
 <h3> Level 3: </h3>
 
+![Przechwytywanie](https://user-images.githubusercontent.com/125133223/225208259-ec7acc74-d7aa-4e6e-b817-014b0c8b099f.PNG)
 
