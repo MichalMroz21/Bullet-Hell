@@ -5,7 +5,7 @@ Game consists of 3 levels and 3 types of enemies:
 - "Assasins" - Shoots missiles in circle shape
 - "Bombardier" - Boss on level 2 that shoots missiles in straight lines
 
-Game tracks player's information (HP, Time spent on level, Accuracy, Rank, Number of enemies) and displays it.
+Game tracks player's information (HP, Time spent on level, Accuracy, Rank - based on how well player performs, Number of enemies) and displays it.
 
 Player can pickup health boosters which regenerate HP.
 Whenever player gets hit he gains invicibility for a short amount of time. 
