@@ -1,5 +1,7 @@
 # Bullet Hell Game
 
+Bullet Hell Game in C++ and SDL Library
+
 ## Technologies
 <img src="https://github.com/user-attachments/assets/6166e420-7607-4f51-b580-2da120402d41" alt="drawing" width="75"/>
 <img src="https://github.com/user-attachments/assets/9820308a-5507-4574-8e48-bf01fa16c228" alt="drawing" width="75"/>
