@@ -1,14 +1,10 @@
-<h2>Bullet Hell Game</h2>
+# Bullet Hell Game
 
-Game consists of 3 levels and 3 types of enemies:
-- "RED ETI" - Shoots 4 missiles in 4 directions.
-- "Assasins" - Shoots missiles in circle shape
-- "Bombardier" - Boss on level 2 that shoots missiles in straight lines
+## Technologies
+<img src="https://github.com/user-attachments/assets/6166e420-7607-4f51-b580-2da120402d41" alt="drawing" width="75"/>
+<img src="https://github.com/user-attachments/assets/9820308a-5507-4574-8e48-bf01fa16c228" alt="drawing" width="75"/>
 
-Game tracks player's information (HP, Time spent on level, Accuracy, Rank - based on how well player performs, Number of enemies) and displays it.
-
-Player can pickup health boosters which regenerate HP.
-Whenever player gets hit he gains invicibility for a short amount of time. 
+## Demo
 
 <h3> Level 1: </h3>
 
@@ -21,4 +17,18 @@ Whenever player gets hit he gains invicibility for a short amount of time.
 <h3> Level 3: </h3>
 
 ![Przechwytywanie](https://user-images.githubusercontent.com/125133223/225208259-ec7acc74-d7aa-4e6e-b817-014b0c8b099f.PNG)
+
+## Description
+
+Game consists of 3 levels and 3 types of enemies:
+- "RED ETI" - Shoots 4 missiles in 4 directions.
+- "Assasins" - Shoots missiles in circle shape
+- "Bombardier" - Boss on level 2 that shoots missiles in straight lines
+
+Game tracks player's information (HP, Time spent on level, Accuracy, Rank - based on how well player performs, Number of enemies) and displays it.
+
+Player can pickup health boosters which regenerate HP.
+Whenever player gets hit he gains invicibility for a short amount of time. 
+
+
 
